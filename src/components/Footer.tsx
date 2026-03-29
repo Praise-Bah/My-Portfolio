@@ -115,8 +115,8 @@ export default function Footer() {
               </a>
             </div>
             <p className="text-text-secondary text-sm">
-              <a href="mailto:praisebag@gmail.com" className="transition-colors hover:opacity-80">
-                praisebag@gmail.com
+              <a href="mailto:praisebah@gmail.com" className="transition-colors hover:opacity-80">
+                praisebah@gmail.com
               </a>
             </p>
             <p className="text-text-secondary text-sm">
