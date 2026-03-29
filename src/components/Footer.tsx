@@ -92,7 +92,7 @@ export default function Footer() {
                 href="https://github.com/Praise-Bah"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2 glass rounded-lg transition-all duration-300 hover:opacity-80"
+                className="p-2 bg-black/20 backdrop-blur border border-white/10 rounded-lg transition-all duration-300 hover:opacity-80"
                 aria-label="GitHub"
               >
                 <GithubIcon />
@@ -101,14 +101,14 @@ export default function Footer() {
                 href="https://linkedin.com/in/praise-bah"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2 glass rounded-lg transition-all duration-300 hover:opacity-80"
+                className="p-2 bg-black/20 backdrop-blur border border-white/10 rounded-lg transition-all duration-300 hover:opacity-80"
                 aria-label="LinkedIn"
               >
                 <LinkedinIcon />
               </a>
               <a
                 href="mailto:praisebag@gmail.com"
-                className="p-2 glass rounded-lg transition-all duration-300 hover:opacity-80"
+                className="p-2 bg-black/20 backdrop-blur border border-white/10 rounded-lg transition-all duration-300 hover:opacity-80"
                 aria-label="Email"
               >
                 <Mail size={20} />
@@ -139,7 +139,7 @@ export default function Footer() {
             {/* Back to Top */}
             <motion.button
               onClick={scrollToTop}
-              className="p-3 glass rounded-full transition-all duration-300 group hover:opacity-80"
+              className="p-3 bg-black/20 backdrop-blur border border-white/10 rounded-full transition-all duration-300 group hover:opacity-80"
               whileHover={{ scale: 1.1, y: -2 }}
               whileTap={{ scale: 0.9 }}
               aria-label="Back to top"
