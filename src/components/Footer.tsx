@@ -107,7 +107,7 @@ export default function Footer() {
                 <LinkedinIcon />
               </a>
               <a
-                href="mailto:praisebag@gmail.com"
+                href="mailto:praisebah@gmail.com"
                 className="p-2 bg-black/20 backdrop-blur border border-white/10 rounded-lg transition-all duration-300 hover:opacity-80"
                 aria-label="Email"
               >
